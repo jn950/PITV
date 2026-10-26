@@ -21,6 +21,11 @@
 - ⚡ **国内高速直链下载**：[PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/PITV-v1.3.4.4.apk)
 
 ---
+![截图](/img/img1.jpg)
+![截图](/img/img2.png)
+![截图](/img/img3.png)
+![截图](/img/img4.png)
+![截图](/img/img5.png)
 
 ## ✨ 核心特性
 
