@@ -22,10 +22,12 @@
 
 ---
 ![截图](/img/img1.jpg)
+![截图](/img/img5.png)
 ![截图](/img/img2.png)
 ![截图](/img/img3.png)
 ![截图](/img/img4.png)
-![截图](/img/img5.png)
+![截图](/img/img6.png)
+![截图](/img/img7.png)
 
 ## ✨ 核心特性
 
