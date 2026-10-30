@@ -18,7 +18,7 @@
 
 - 📦 **GitHub 仓库**：[https://github.com/jn950/PITV](https://github.com/jn950/PITV)
 - 🚀 **最新版本下载**：[GitHub Releases 发布页面](https://github.com/jn950/PITV/releases)
-- ⚡ **国内高速直链下载**：[PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/PITV-v1.3.4.4.apk)
+- ⚡ **国内高速直链下载**：[PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/TV-v1.3.4.4.apk)
 
 ---
 ![截图](/img/img1.jpg)
@@ -89,7 +89,7 @@
 
 ### 方式一：国内镜像加速下载（推荐）
 点击下方直链，即可通过加速节点直接下载最新版 APK 安装包：
-👉 **[下载最新 PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/PITV-v1.3.4.4.apk)**
+👉 **[下载最新 PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/TV-v1.3.4.4.apk)**
 
 ### 方式二：GitHub Releases 官方下载
 前往官方 Releases 发布仓库下载：
