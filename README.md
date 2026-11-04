@@ -134,6 +134,6 @@ cd ../../../..
 
 ## 💖 致谢与开源项目
 
-- 原项目致谢：[NativeWasmTv](https://github.com/buhanzhe/NativeWasmTv)
+- 原项目致谢：[NativeWasmTv]
 - 播放内核：[bilibili / ijkplayer](https://github.com/bilibili/ijkplayer)
 - Google AndroidX & ExoPlayer
