@@ -1,7 +1,7 @@
 # 📺 ΠTV (PITV) · 智能电视极速播放器
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Release-v1.3.4.4-brightgreen.svg" alt="Latest Release" />
+  <img src="https://img.shields.io/badge/Release-v1.3.5.0-brightgreen.svg" alt="Latest Release" />
   <img src="https://img.shields.io/badge/Platform-Android%20TV%20%7C%20Box-blue.svg" alt="Platform" />
   <img src="https://img.shields.io/badge/Arch-armeabi--v7a%20%7C%20arm64--v8a-orange.svg" alt="Architecture" />
   <img src="https://img.shields.io/badge/Android-4.4%2B-blueviolet.svg" alt="Android Compatibility" />
@@ -18,7 +18,7 @@
 
 - 📦 **GitHub 仓库**：[https://github.com/jn950/PITV](https://github.com/jn950/PITV)
 - 🚀 **最新版本下载**：[GitHub Releases 发布页面](https://github.com/jn950/PITV/releases)
-- ⚡ **国内高速直链下载**：[PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/TV-v1.3.4.4.apk)
+- ⚡ **国内高速直链下载**：[PITV-v1.3.5.0.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/TV-v1.3.5.0.apk)
 
 ---
 ![截图](/img/img1.jpg)
@@ -76,7 +76,7 @@
 
 ---
 
-## 📝 最近更新日志 (v1.3.4.4)
+## 📝 最近更新日志 (v1.3.5.0)
 
 - 🔒 **强化安全防御**：新增底层 Native C 签名完整性自检与自毁机制，全面防范二次打包与非法篡改。
 - ⚽ **咪咕体育重构**：全新重构咪咕体育赛程，实现**昨日 / 今日 / 明日**独立分类三级赛事看板。
@@ -90,7 +90,7 @@
 
 ### 方式一：国内镜像加速下载（推荐）
 点击下方直链，即可通过加速节点直接下载最新版 APK 安装包：
-👉 **[下载最新 PITV-v1.3.4.4.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/TV-v1.3.4.4.apk)**
+👉 **[下载最新 PITV-v1.3.5.0.apk (高速代理镜像)](https://gh-proxy.org/https://github.com/jn950/PITV/releases/download/pitv/TV-v1.3.5.0.apk)**
 
 ### 方式二：GitHub Releases 官方下载
 前往官方 Releases 发布仓库下载：
